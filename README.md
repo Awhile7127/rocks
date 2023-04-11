@@ -21,9 +21,7 @@ You need to have installed:
 For Ubtuntu / Debian-based systems, these are easy to install:
 
 ```
-sudo apt install libssl-dev
-sudo apt install pkg-config
-sudo apt install libsqlite3-dev
+sudo apt install libssl-dev pkg-config libsqlite3-dev
 ```
 
 ### Building
